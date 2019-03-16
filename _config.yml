@@ -19,15 +19,12 @@ description: "메모장"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pklazy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pklazy 
-github_username: pklazy
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-disqus:
-      shortname: pklazy-github-io
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
