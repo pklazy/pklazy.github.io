@@ -15,19 +15,19 @@
 # in the templates via {{ site.myvariable }}.
 title: pklazy's blog
 email: pklazy@gmail.com
-description: "메모장"
+description: 기록, 메모 등
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pklazy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: pklazy 
-github_username: pklazy
 
 # Build settings
-markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-disqus:
-      shortname: pklazy-github-io
+
+timezone: Asia/Seoul
+
+minima:
+  date_format: "%Y-%m-%d"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
