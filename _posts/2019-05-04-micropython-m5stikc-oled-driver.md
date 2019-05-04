@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "M5Stick OLED"
+title: "MicroPython M5Stick OLED Driver"
 date: 2019-05-04 17:12 +0900
 categories: embedded
 tags: m5stick
@@ -8,7 +8,7 @@ tags: m5stick
 
 ![MtStick](/assets/e7c3c369477d60e83090d33037d656fcd820c3e796e26a43bb1604de3f26a425.jpg)
 
-micropython sh1107 driver: https://gist.github.com/pklazy/db683d8a079ed10bd88b63fd880fed7d
+MicroPython M5Stick OLED Driver: https://gist.github.com/pklazy/db683d8a079ed10bd88b63fd880fed7d
 
 OLED 사양
 
