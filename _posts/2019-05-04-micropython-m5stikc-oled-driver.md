@@ -3,7 +3,7 @@ layout: post
 title: "MicroPython M5Stick OLED Driver"
 date: 2019-05-04 17:12 +0900
 categories: embedded
-tags: m5stick
+tags: [m5stick, micropython]
 ---
 
 ![MtStick](/assets/e7c3c369477d60e83090d33037d656fcd820c3e796e26a43bb1604de3f26a425.jpg)
@@ -19,7 +19,7 @@ OLED 사양
 OLED IO 연결 상태
 
 - CS: GPIO14
-- DC: GPIO27
+- DC(A0): GPIO27
 - RST(RES): GPIO33
 - SCK(D0): GPIO18
 - MOSI(D1): GPIO23
