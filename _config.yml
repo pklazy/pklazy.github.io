@@ -21,7 +21,6 @@ url: "https://pklazy.github.io" # the base hostname & protocol for your site, e.
 twitter_username: pklazy 
 
 # Build settings
-markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
